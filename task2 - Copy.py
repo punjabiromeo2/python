@@ -1,4 +1,4 @@
-'''# task2 ..(i)
+# task2 ..(i)
 # User input
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
